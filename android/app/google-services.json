@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362390934074",
+    "firebase_url": "https://riskassessment-fe4e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "riskassessment-fe4e0",
+    "storage_bucket": "riskassessment-fe4e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362390934074:android:eabfed4bac7e84a78f5b03",
+        "android_client_info": {
+          "package_name": "com.example.riskassessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362390934074-mq3tqh1k7dqjsgoh8t7mpt9nvo666h7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6J9nv8DRtdvmYlyW4DLUpBcCmNulv7HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362390934074-mq3tqh1k7dqjsgoh8t7mpt9nvo666h7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
